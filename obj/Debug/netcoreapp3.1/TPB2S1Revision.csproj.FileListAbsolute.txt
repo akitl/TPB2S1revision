@@ -1,0 +1,13 @@
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.exe
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.deps.json
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.runtimeconfig.json
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.runtimeconfig.dev.json
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.dll
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\bin\Debug\netcoreapp3.1\TPB2S1Revision.pdb
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.csprojAssemblyReference.cache
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.AssemblyInfoInputs.cache
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.AssemblyInfo.cs
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.csproj.CoreCompileInputs.cache
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.dll
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.pdb
+F:\eartsup\tpRentrerB2s1\TPB2S1Revision\obj\Debug\netcoreapp3.1\TPB2S1Revision.genruntimeconfig.cache
